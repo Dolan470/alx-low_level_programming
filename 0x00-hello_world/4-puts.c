@@ -2,7 +2,8 @@
 
 /**
  *main - this puts "Programming is like building a multilingual puzzle
- *return is 0
+ *
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
