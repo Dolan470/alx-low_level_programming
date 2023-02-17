@@ -17,7 +17,6 @@ int main(void)
 			{
 				putchar(i);
 				putchar(j);
-			
 				if ((i + j) != ('8' + '9'))
 				{
 					putchar(44);
