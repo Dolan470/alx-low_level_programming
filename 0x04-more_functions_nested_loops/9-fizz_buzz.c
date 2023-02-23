@@ -21,8 +21,7 @@ int main(void)
 		else if ((i % 5) == 0)
 			printf("Buzz");
 		else
-			printf("%i", i);
-		printf(" ");
+			printf("%i ", i);
 	}
 	printf("\n");
 	return (0);
