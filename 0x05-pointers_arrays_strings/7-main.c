@@ -8,8 +8,11 @@
 int main(void)
 {
     char *str;
+    char *st;
 
-    str = "0123456789";
+    str = "0123456789";   
+    st = "012345678";
     puts_half(str);
+    puts_half(st);
     return (0);
 }
